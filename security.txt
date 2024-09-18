@@ -1,0 +1,4 @@
+# security.txt
+
+Policy: https://privacidade.eletrati.com
+
